@@ -8,7 +8,7 @@ version = "1.0.1"
 description = "Get information on free parking spaces in Zurich."
 authors = ["Sascha Corti <sascha@corti.com>"]
 readme = "README.md"
-homepage = "https://github.com/techpreacher/zurich-"
+homepage = "https://github.com/TechPreacher/zurich-parking"
 license = "MIT"
 
 [tool.poetry.dependencies]
