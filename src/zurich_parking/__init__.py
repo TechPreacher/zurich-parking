@@ -8,7 +8,7 @@ except ModuleNotFoundError:
 
 
 # Version of zurich-parking package
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 # Read URL of the Zurich parking feed from config file
 _cfg = tomllib.loads(resources.read_text("zurich_parking", "config.toml"))
